@@ -1,0 +1,15 @@
+C:\VS\EqualString\bin\Debug\net6.0\EqualString.exe
+C:\VS\EqualString\bin\Debug\net6.0\EqualString.deps.json
+C:\VS\EqualString\bin\Debug\net6.0\EqualString.runtimeconfig.json
+C:\VS\EqualString\bin\Debug\net6.0\EqualString.dll
+C:\VS\EqualString\bin\Debug\net6.0\EqualString.pdb
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.csproj.AssemblyReference.cache
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.AssemblyInfoInputs.cache
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.AssemblyInfo.cs
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.csproj.CoreCompileInputs.cache
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.dll
+C:\VS\EqualString\obj\Debug\net6.0\refint\EqualString.dll
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.pdb
+C:\VS\EqualString\obj\Debug\net6.0\EqualString.genruntimeconfig.cache
+C:\VS\EqualString\obj\Debug\net6.0\ref\EqualString.dll
